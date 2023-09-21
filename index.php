@@ -7,5 +7,6 @@
 </head>
 <body>
    <h1>hash_init</h1> 
+   <p>haiii</p>
 </body>
 </html>
