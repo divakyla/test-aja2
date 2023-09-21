@@ -8,5 +8,6 @@
 <body>
    <h1>hash_init</h1> 
    <p>haiii</p>
+   <p>haloo</p>
 </body>
 </html>
